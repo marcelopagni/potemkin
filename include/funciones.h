@@ -1,5 +1,4 @@
-
-suma(int un, int dos)
+suma(* un, char dos)
 	{
 	resultado = 1 + 2;
 	return resultado;
