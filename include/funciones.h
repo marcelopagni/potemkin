@@ -1,6 +1,6 @@
 
 suma(int un, int dos)
 	{
-	resultado = un + dos;
+	resultado = 1 + 2;
 	return resultado;
 	}
